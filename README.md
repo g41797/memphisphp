@@ -1,8 +1,8 @@
-# PHP Scaffolding
+# memphisphp
 
 [![MIT Software License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-This is a scaffolding for PHP projects. A basic structure ready to start coding in `src` and `tests`.
+PHP client for [memphisgrpc](https://github.com/g41797/memphisgrpc)
 
 ### Some composer scripts
 
@@ -36,4 +36,3 @@ docker build -t php-scaffolding .
 
 Feel free to open any PR with your ideas, suggestions or improvements.
 
-Or contact me directly via [Twitter](https://twitter.com/Chemaclass).
